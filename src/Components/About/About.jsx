@@ -1,29 +1,29 @@
 import React from 'react'
 import './About.css'
-import about_img from '../../assets/about.png'
-import play_icon from '../../assets/play-icon.png'
+import about_img from '../../assets/about.jpg'
 
 
-const About = ({setPlayerState}) => {
+const About = () => {
   return (
     <div className='about'>
       <div className="about-left">
         <img src={about_img} alt="" className='about-img'/>
-        <img src={play_icon} alt="" className='play-icon' onClick={()=>{setPlayerState(true)}}/>
       </div>
       <div className="about-right">
-        <h3>ABOUT UNIVERSITY</h3>
-        <h2>Nurturing Tomorrow's Leaders Today</h2>
-        <p>Embark on a transformative educational journey with our university's
-        comprehensive education programs. Our cutting-edge curriculum is designed
-        to empower students with the knowledge, skills, and experiences needed to
-        excel in the dynamic field of education.</p>
-        <p>With a focus on innovation, hands-on learning, and personalized mentorship,
-        our programs prepare aspiring educators to make a meaningful impact in classrooms,
-        schools, and communities.</p>
-        <p>Whether you aspire to become a teacher, administrator, counselor, or educational
-        leader, our diverse range of programs offers the perfect pathway to achieve your goals
-        and unlock your full potential in shaping the future of education.</p>
+        <h3>ABOUT US</h3>
+        <h2>Achieve Your English Goals with Confidence!</h2>
+        <p>Welcome to a learning experience tailored just for you!
+          Our English classes are designed to help you speak, write,
+          and understand English with confidence. Whether you’re preparing for exams,
+          advancing your career, or simply improving your communication,
+          we’ve got you covered.</p>
+        <p>With expert teachers and engaging lessons, we focus on real-world language skills
+          that make a difference. Each class is interactive, dynamic, and personalized to suit
+          your goals and pace. From mastering grammar to perfecting pronunciation,
+          we guide you every step of the way.</p>
+        <p>Join a supportive community where learning is fun and progress is celebrated. 
+          Flexible schedules and modern resources ensure you can learn anytime, anywhere. 
+          Let’s make your English dreams a reality</p>
       </div>
     </div>
   )

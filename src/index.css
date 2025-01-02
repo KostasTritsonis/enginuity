@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: "Outfit", sans-serif;
+    
 }
 
 body{
@@ -19,7 +20,7 @@ a{
 
 .container{
     padding-left: 10%;
-    padding-right: 10%;
+    padding-right: 10%;;
 }
 .btn{
     background: #FFF;
@@ -37,9 +38,10 @@ a{
 .btn img{
     width: 20px;
     margin-left: 10px;
+    
 }
 .btn.dark-btn{
-    background: #212EA0;
+    background: #ab05d4;
     color: #fff;
 
 }

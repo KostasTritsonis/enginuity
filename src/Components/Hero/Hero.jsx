@@ -5,11 +5,11 @@ const Hero = () => {
   return (
     <div className='hero container'>
         <div className='hero-text'>
-            <h1>We Ensure better education for a better world</h1>
-            <p>Our cutting-edge curriculum is designed to empower students
-            with the knowledge, skills, and experiences needed to excel in
-            the dynamic field of education</p>
-            <button className='btn'>Explore more <img src={dark_arrow} alt="" /></button>
+            <h1>Your journey to English mastery begins here. Learn, grow, and thrive with us.</h1>
+            <p>Unlock your full potential with expert-led English lessons.
+              Whether you're starting from scratch or looking to refine your skills,
+              our personalized approach will help you achieve fluency. 
+              Join us today and open doors to new opportunities!</p>
         </div>
     </div>
   )
