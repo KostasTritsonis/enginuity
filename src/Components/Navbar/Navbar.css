@@ -12,12 +12,13 @@ nav{
     p{
         font-size: 30px;
         font-weight: 700;
-        padding-right: 50%;
+        padding-right: 40%;
+        padding-top: 15px;
     }
 }
 
 .logo {
-    width: 90px;
+    width: 70px;
     
 }
 
