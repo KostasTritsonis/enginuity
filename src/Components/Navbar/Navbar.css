@@ -17,7 +17,7 @@ nav{
 }
 
 .logo {
-    width: 100px;
+    width: 90px;
     
 }
 
@@ -25,11 +25,11 @@ ul li{
     display: inline-block;
     list-style: none;
     margin: 5px 20px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .dark-nav{
-    background: #8603a7;
+    background: #0b028b;
     transition: 0.5s;
 }
 
@@ -52,7 +52,7 @@ ul li{
         top: 0;
         right: 0;
         bottom: 0;
-        background: #ab05d4;
+        background: #0b028b;
         z-index: -1;
         width: 200px;
         padding-top: 70px;

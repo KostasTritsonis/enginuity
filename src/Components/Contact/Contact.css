@@ -13,7 +13,7 @@
 
 
 .contact-col h3{
-    color: #ab05d4;
+    color: #0b028b;
     font-weight: 500;
     font-size: 25px;
     display: flex;
@@ -42,7 +42,7 @@
 .contact form input, .contact form textarea{
     display: block;
     width: 100%;
-    background: #ab05d434;
+    background: #0b028b44;
     padding: 15px;
     border: 0;
     outline: 0;
