@@ -24,12 +24,12 @@ const Contact = () => {
                 <label>Your Name</label>
                 <input type="text" name='name' placeholder='Enter your name' required/>
                 <label>Phone Number</label>
-                <input type="text" name='phone' placeholder='Enter your mobile nubmer' required/>
+                <input type="text" name='phone' placeholder='Enter your mobile number' required/>
                 <label>Your Email</label>
                 <input type="text" name='mail' placeholder='Enter your email' required/>
                 <label>Write your messages here</label>
                 <textarea name="message" rows="6" placeholder='Enter your message' required></textarea>
-                <button type='submit' className='btn dark-btn'>Sumbit now <img src={white_arrow} alt="" /></button>
+                <button type='submit' className='btn dark-btn'>Sumbit<img src={white_arrow} alt="" /></button>
             </form>
         </div>
     </div>

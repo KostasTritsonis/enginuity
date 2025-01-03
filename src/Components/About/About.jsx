@@ -23,7 +23,7 @@ const About = () => {
           we guide you every step of the way.</p>
         <p>Join a supportive community where learning is fun and progress is celebrated. 
           Flexible schedules and modern resources ensure you can learn anytime, anywhere. 
-          Let’s make your English dreams a reality</p>
+          Let’s make your English dreams a reality.</p>
       </div>
     </div>
   )
