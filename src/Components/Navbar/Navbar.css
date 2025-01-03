@@ -54,7 +54,7 @@ ul li{
         bottom: 0;
         background: #0b028b;
         z-index: -1;
-        width: 200px;
+        width: 160px;
         padding-top: 70px;
         transition: 0.5s;
     }
