@@ -1,10 +1,14 @@
 import React from 'react'
 import './Footer.css'
+import { useTranslation } from 'react-i18next'
 
 const Footer = () => {
+
+  const {t,i18n} = useTranslation();
+
   return (
     <div className='footer'>
-        <p>© 2025 Enginuity. All rights reserved.</p>
+        <p>{t("© 2025 Matina Makrygianni. All rights reserved.")}</p>
     </div>
   )
 }

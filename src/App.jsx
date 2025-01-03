@@ -5,18 +5,23 @@ import Title from './Components/Title/Title'
 import About from './Components/About/About'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
+import { useTranslation } from 'react-i18next'
 
 
 const App = () => {
+
+  const {t,i18n} = useTranslation();
+
+
   return (
     <div>
       <Navbar/>  
       <Hero/>
       <div className="container">
-        <Title subTitle='Our PROGRAM' title='What we Offer'/>
+        <Title subTitle={t('our program')} title={t('What we Offer')}/>
         <Programs/>
         <About/>
-        <Title subTitle='CONTACT US' title='Get in Touch'/>
+        <Title subTitle={t('contact us')} title={t('Get in Touch')}/>
         <Contact/>
         <Footer/>
       </div>

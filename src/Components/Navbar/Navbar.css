@@ -12,8 +12,10 @@ nav{
     p{
         font-size: 30px;
         font-weight: 700;
-        padding-right: 35%;
+        padding-right: 25%;
+        padding-left: 10px;
         padding-top: 15px;
+        
     }
 }
 
@@ -21,6 +23,7 @@ nav{
     width: 70px;
     
 }
+
 
 ul li{
     display: inline-block;
@@ -72,7 +75,7 @@ ul li{
     }
     nav ul li{
         display: block;
-        margin: 25px 40px;
+        margin: 25px 20px;
     }
 
     ul li img{
@@ -83,6 +86,7 @@ ul li{
         display: block;
         width: 30px;
         cursor: pointer;
+        
     }
 
     .hide-mobile-menu{

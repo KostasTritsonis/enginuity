@@ -20,7 +20,7 @@ a{
 
 .container{
     padding-left: 10%;
-    padding-right: 10%;;
+    padding-right: 10%;
 }
 .btn{
     background: #FFF;
@@ -53,6 +53,8 @@ a{
     }
     .btn{
         padding: 14px 22px;
+        
+        
     }
     
 }
