@@ -68,6 +68,8 @@ i18n.use(initReactI18next).init({
                 'Enter your email':'Enter your email',
                 'Enter your message':'Enter your message',
                 "© 2025 Enginuity. All rights reserved.":"© 2025 Enginuity. All rights reserved.",
+                "Gallery":"Gallery",
+                "Our Class":"Our Class",
             }
         },
         gr:{
@@ -129,6 +131,8 @@ i18n.use(initReactI18next).init({
                 'Enter your email':'Εισάγετε το email σας',
                 'Enter your message':'Εισάγετε το μήνυμά σας',
                 "© 2025 Matina Makrygianni. All rights reserved.":"© 2025 Ματίνα Μακρύγιαννη. Όλα τα δικαιώματα διατηρούνται.",
+                "Gallery":"Συλλογή",
+                "Our Class":"Η Τάξη Μας",
             }
         }
     }
