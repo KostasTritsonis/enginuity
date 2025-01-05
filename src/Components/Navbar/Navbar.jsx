@@ -44,7 +44,7 @@ const Navbar = () => {
         <img src={logo} alt="" className='logo' />
         <p>{t("MATINA MAKRYGIANNI")}</p>
         <ul className={mobileMenu ?'':'hide-mobile-menu'}>
-            <li><button onClick={changeLang}><img src={flag==="en" ? english : greek} alt="" /></button></li>
+            <li><button id="language" onClick={changeLang}><img src={flag==="en" ? english : greek} alt="" /></button></li>
             <li><Link href='#hero' to='hero' smooth={true} offset={0} duration={500}>{t("Home")}</Link></li>
             <li><Link href='#programs' to='programs' smooth={true} offset={-260} duration={500}>{t("Program")}</Link></li>
             <li><Link href='#about' to='about' smooth={true} offset={-150} duration={500}>{t("About us")}</Link></li>
