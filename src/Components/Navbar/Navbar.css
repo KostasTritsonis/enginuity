@@ -50,6 +50,7 @@ ul li{
 
 .menu-icon{
     display: none;
+    z-index: 15;
 }
 
 @media (max-width: 1770px){
@@ -100,6 +101,9 @@ ul li{
     }
     nav p{
         font-size: 20px;
-        padding-right: 100px;
+    }
+
+    nav ul{
+        z-index: 15;
     }
 }
