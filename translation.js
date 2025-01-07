@@ -70,6 +70,7 @@ i18n.use(initReactI18next).init({
                 "© 2025 Enginuity. All rights reserved.":"© 2025 Enginuity. All rights reserved.",
                 "Gallery":"Gallery",
                 "Our Class":"Our Class",
+                "Image and Text by British Council":"Image and Text by British Council",
             }
         },
         gr:{
@@ -133,6 +134,7 @@ i18n.use(initReactI18next).init({
                 "© 2025 Matina Makrygianni. All rights reserved.":"© 2025 Ματίνα Μακρύγιαννη. Όλα τα δικαιώματα διατηρούνται.",
                 "Gallery":"Συλλογή",
                 "Our Class":"Η Τάξη Μας",
+                "Image and Text by British Council":"Εικόνες και Κειμένα από το British Council",
             }
         }
     }

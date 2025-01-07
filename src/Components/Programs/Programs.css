@@ -31,7 +31,12 @@
 .program-left {
     flex-basis: 50%;
     position: relative;
+
+    p{
+        font-size: 14px;
+    }
 }
+
 
 .program-left img{
     width: 100%;

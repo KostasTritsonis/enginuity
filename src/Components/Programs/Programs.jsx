@@ -44,6 +44,7 @@ const Programs = () => {
     <div className="levels">
         <div className="program-left">
             <img src={level} alt="" />
+            <p>{t("Image and Text by British Council")}</p>
         </div>
         <div className="program-right">
             <p><b>{t("A1")}</b>{t("A1Text")}</p>
