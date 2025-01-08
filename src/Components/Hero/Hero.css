@@ -45,7 +45,7 @@
 .quote3{
     position:absolute;
     transform: rotate(-15deg);
-    bottom: 25%;
+    bottom: 20%;
 }
 
 .quote4{
@@ -55,12 +55,6 @@
     bottom: 5%;
 }
 
-.quote5{
-    position:absolute;
-    transform: rotate(35deg);
-    left: 15%;
-    bottom: 10%;
-}
 
 
 
