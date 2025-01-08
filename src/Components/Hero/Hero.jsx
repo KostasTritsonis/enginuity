@@ -20,7 +20,6 @@ const Hero = () => {
       <p className='quote2'>Nothing is better than perfect</p>
       <p className='quote3'>Doorway to Learning</p>
       <p className='quote4'>Knowledge is Power</p>
-      <p className='quote5'>When you believe in yourself <br /> anything is possible</p>
     </div>
   </>
   )
