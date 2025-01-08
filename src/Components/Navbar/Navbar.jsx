@@ -5,7 +5,7 @@ import { Link } from 'react-scroll'
 import menu_icon from '../../assets/menu-icon.png'
 import greek from '../../assets/greek.png'
 import english from '../../assets/english.png'
-import "../../../translation";
+import "../../translation";
 import { useTranslation } from 'react-i18next'
 
 const Navbar = () => {

@@ -18,9 +18,9 @@ i18n.use(initReactI18next).init({
                         "Whether you're starting from scratch or looking to refine your skills,"+
                         "our personalized approach will help you achieve fluency."+
                         "Join us today and open doors to new opportunities!",
-                "Our PROGRAM":"Our PROGRAM",
+                "our program":"our program",
                 "What we Offer":"What we Offer",
-                "Excellence.":"Excellence",
+                "Excellence":"Excellence",
                 "Advancement":"Advancement",
                 "Global Opportunity":"Global Opportunity",
                 "English Certification: Your Roadmap to Success!":"English Certification: Your Roadmap to Success!",
@@ -67,7 +67,7 @@ i18n.use(initReactI18next).init({
                 'Enter your mobile number':'Enter your mobile number',
                 'Enter your email':'Enter your email',
                 'Enter your message':'Enter your message',
-                "© 2025 Enginuity. All rights reserved.":"© 2025 Enginuity. All rights reserved.",
+                "© 2025 Matina Makrygianni. All rights reserved.":"© 2025 Matina Makrygianni. All rights reserved.",
                 "Gallery":"Gallery",
                 "Our Class":"Our Class",
                 "Image and Text by British Council":"Image and Text by British Council",
