@@ -30,7 +30,7 @@
 }
 .quote1{
     position: absolute;
-    transform: rotate(15deg);
+    transform: rotate(5deg);
     bottom: 75%;
     left: 70%;
     z-index: 1;
@@ -38,19 +38,19 @@
 
 .quote2{
     position:absolute;
-    transform: rotate(-30deg);
+    transform: rotate(-10deg);
     bottom: 75%;
 }
 
 .quote3{
     position:absolute;
-    transform: rotate(-15deg);
+    transform: rotate(-5deg);
     bottom: 20%;
 }
 
 .quote4{
     position:absolute;
-    transform: rotate(-40deg);
+    transform: rotate(10deg);
     left: 70%;
     bottom: 5%;
 }
