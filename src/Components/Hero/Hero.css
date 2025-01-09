@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+SA:wght@100..400&display=swap');
+
 .hero{
     width: 100%;
     min-height: 100vh;
@@ -25,30 +27,34 @@
 }
 .quotes{
     color: #fff;
+    
     opacity: calc(0.7);
     font-size: 30px;
 }
 .quote1{
+    font-family: 'Playwrite AU SA', sans-serif;
     position: absolute;
     transform: rotate(5deg);
     bottom: 75%;
     left: 70%;
-    z-index: 1;
 }
 
 .quote2{
+    font-family: 'Playwrite AU SA', sans-serif;
     position:absolute;
     transform: rotate(-10deg);
     bottom: 75%;
 }
 
 .quote3{
+    font-family: 'Playwrite AU SA', sans-serif;
     position:absolute;
     transform: rotate(-5deg);
     bottom: 20%;
 }
 
 .quote4{
+    font-family: 'Playwrite AU SA', sans-serif;
     position:absolute;
     transform: rotate(10deg);
     left: 70%;
