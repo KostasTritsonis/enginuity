@@ -29,7 +29,7 @@ ul li{
     display: inline-block;
     list-style: none;
     margin: 5px 20px;
-    font-size: 18px;
+    font-size: 16px;
 
     img{
         width: 30px;
@@ -55,7 +55,7 @@ ul li{
 
 @media (max-width: 2200px){
     nav p{
-        padding-right: 35%;
+        padding-right: 30%;
     }
 }
 
