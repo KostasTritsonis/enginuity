@@ -7,9 +7,13 @@ const Footer = () => {
   const {t,i18n} = useTranslation();
 
   return (
-    <div className='footer'>
-        <p>{t("© 2025 Matina Makrygianni. All rights reserved.")}</p>
-    </div>
+    <>
+      <div className='footer'>
+          <p>{t("© 2025 Matina Makrygianni. All rights reserved.")}</p>
+      </div>
+      <p className='footer2'>Designed by Konstantinos Tritsonis. Icons by Icons8</p>
+    </>
+    
   )
 }
 

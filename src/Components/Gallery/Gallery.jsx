@@ -8,7 +8,6 @@ const Gallery = () => {
   return (
     <div className='gallery'>
         <div className="photos">
-            <img src={null} alt="" />
             <img src={photo_2} alt="" />
             <img src={photo_3} alt="" />
         </div>
